@@ -7,4 +7,5 @@ package com.msb;
  * @version:
  */
 public class Student {
+    private int age ;
 }
